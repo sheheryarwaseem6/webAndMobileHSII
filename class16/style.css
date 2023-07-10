@@ -1,0 +1,49 @@
+/* h1{
+    background-color: aqua;
+    position: fixed;
+    margin-top: -70px;
+}
+p.example{
+    margin-top: 100px;
+} */
+
+/* p {
+    float: left;
+
+ 
+}
+    .clear{
+        clear: left;
+    } */
+
+/* .column1of2 {
+  float: left;
+  width: 620px;
+  margin: 10px;
+}
+.column2of2 {
+  float: left;
+  width: 300px;
+  margin: 10px;
+} */
+
+@media screen and (max-width: 800px) {
+    img {
+      width: 600px;
+      height: 600px;
+    }
+  }
+@media screen and (max-width: 600px) {
+    img {
+      width: 400px;
+      height: 400px;
+    }
+    
+  }
+@media screen and (max-width: 300px) {
+    img {
+      width: 100px;
+      height: 100px;
+    }
+
+  }

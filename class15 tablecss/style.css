@@ -1,0 +1,43 @@
+ body {
+  font-family: Arial, Verdana, sans-serif;
+  color: #111111;
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+/* table {
+  width: 600px;
+}
+th, td {
+  padding: 7px 10px 10px 10px;
+}
+th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;
+}
+tr.even {
+    background-color: #911414;
+}
+tr:hover {
+    background-color: #d1ff04;
+}
+.money {
+    text-align: right;
+}  */
+
+td {
+  background-color: #0088dd;
+  padding: 15px;
+  border: 2px solid #000000;
+  cursor: pointer;
+}
+table.one {
+  border-spacing: 5px 15px;
+}
+table.two {
+  border-collapse: collapse;
+}

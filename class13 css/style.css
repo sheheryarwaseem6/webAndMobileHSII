@@ -1,0 +1,69 @@
+body{
+    background-color: aqua;
+}
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;}
+    p {
+    max-height: 300px;
+background-color: yellow;
+overflow: hidden;} */
+/* .para{
+    background-color: brown;
+    width: 1000px;
+    height: 300px;
+
+} */
+/* img {
+    min-width: 450px;
+    max-width: 700px;
+    } */
+
+/* .paragraph{
+    text-indent: 20px;
+} */
+/* .head{
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 3px 5px 12px #e90e0e;
+}
+.para:first-letter {
+    font-size: 200%;
+}
+p.para:first-line {
+    font-weight: bold;
+}
+a:visited {
+    color: black;}
+
+button:hover {
+    background-color: #665544;
+}
+button:active{
+    background-color: red;
+}
+input:focus {
+    color: #665544;} */
+
+
+
+
+
+
+.container{
+    border: 3px solid black;
+    max-width: 600px;
+    min-width: 300px;
+}
+.container1{
+    border: 3px solid red;
+    max-width: 600px;
+    min-width: 300px;
+}
+img{
+    width: 100%;
+}
